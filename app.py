@@ -78,6 +78,6 @@ fig.tight_layout()
 st.pyplot(fig)
 plt.close(fig)
 
-# 8. Thông tin tác giả: thay bằng thông tin của bạn
+# 8. Thông tin tác giả: 
 st.divider()
-st.caption('Người tạo ứng dụng: [HỌ VÀ TÊN] | MSSV: [MÃ SỐ SINH VIÊN]')
+st.caption('Người tạo ứng dụng: [Lê Diên Hồng Vân] | MSSV: [025308003954]')
